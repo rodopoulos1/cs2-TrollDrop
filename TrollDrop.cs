@@ -10,7 +10,7 @@ namespace TrollDrop
     {
         public override string ModuleName        => "TrollDrop";
         public override string ModuleVersion     => "1.0.0";
-        public override string ModuleAuthor      => "RodoCodes";
+        public override string ModuleAuthor      => "Rodopoulos";
         public override string ModuleDescription => "Dropped weapons bounce away from anyone who gets too close";
 
         private TrollConfig _config = new();
